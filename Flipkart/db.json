@@ -1,0 +1,459 @@
+{
+  "first": [
+    {
+      "image": "https://rukminim2.flixcart.com/flap/80/80/image/29327f40e9c4d26b.png?q=100",
+      "name": "Grocery"
+    },
+    {
+      "image": "https://rukminim2.flixcart.com/flap/80/80/image/22fddf3c7da4c4f4.png?q=100",
+      "name": "Mobiles"
+    },
+    {
+      "image": "https://rukminim2.flixcart.com/fk-p-flap/80/80/image/0d75b34f7d8fbcb3.png?q=100",
+      "name": "Fashion"
+    },
+    {
+      "image": "https://rukminim2.flixcart.com/flap/80/80/image/69c6589653afdb9a.png?q=100",
+      "name": "Electronics"
+    },
+    {
+      "image": "https://rukminim2.flixcart.com/flap/80/80/image/ab7e2b022a4587dd.jpg?q=100",
+      "name": "Home"
+    },
+    {
+      "image": "https://rukminim2.flixcart.com/fk-p-flap/80/80/image/0139228b2f7eb413.jpg?q=100",
+      "name": "Appliances"
+    },
+    {
+      "image": "https://rukminim2.flixcart.com/flap/80/80/image/71050627a56b4693.png?q=100",
+      "name": "Travel"
+    },
+    {
+      "image": "https://rukminim2.flixcart.com/flap/80/80/image/dff3f7adcf3a90c6.png?q=100",
+      "name": "Beauty, Toys & More"
+    },
+
+    {
+      "image": "https://rukminim2.flixcart.com/fk-p-flap/80/80/image/05d708653beff580.png?q=100",
+      "name": "Two Wheelers"
+    }
+  ],
+  "slider": [
+    {
+      "image": "https://rukminim2.flixcart.com/fk-p-flap/1600/270/image/61775218f4487fe8.jpg?q=20"
+    },
+    {
+      "image": "https://rukminim2.flixcart.com/fk-p-flap/1600/270/image/4495e3aeb5a48b42.jpg?q=20"
+    },
+    {
+      "image": "https://rukminim2.flixcart.com/fk-p-flap/1600/270/image/d9290fb51138d286.png?q=20"
+    },
+    {
+      "image": "https://rukminim2.flixcart.com/fk-p-flap/1600/270/image/7c6cf1a109b087d2.jpg?q=20"
+      
+    }
+  ],
+  "Elecrtronics": [
+    {
+      "image": "https://rukminim2.flixcart.com/image/210/210/l58iaa80/headphone/k/z/m/nord-buds-ce-oneplus-original-imagfyk4hyvgg6ze.jpeg?q=80",
+      "type": "Best Trueless  Headphones",
+      "from": "Grab Now"
+    },
+    {
+      "image": "https://rukminim2.flixcart.com/flap/210/210/image/24ed491dc3ff9e8a.jpg?q=80",
+      "type": "Noise Smartwatches",
+      "from": "From 1,099"
+    },
+    {
+      "image": "https://rukminim2.flixcart.com/image/210/210/kg6vfrk0/shaver/p/s/k/havells-rs7005-3-head-rotary-shaver-with-built-in-pop-up-trimmer-original-imafwgq5gehtja6p.jpeg?q=70&crop=false",
+      "type": "Best of Shavers",
+      "from": "From 1,649"
+    },
+    {
+      "image": "https://rukminim2.flixcart.com/image/210/210/xif0q/projector/i/6/u/i9-pro-10-ei9027-led-projector-egate-original-imah3tzkr5jkzhyq.jpeg?q=80",
+      "type": "Best of Projectors",
+      "from": "From 6,990"
+    },
+    {
+      "image": "https://rukminim2.flixcart.com/image/210/210/xif0q/dslr-camera/i/o/c/eos-r100-24-1-eos-r100-kit-canon-original-imagqeydhsxgacxp.jpeg?q=80",
+      "type": "Best of Cameras",
+      "from": "From 29,999"
+    },
+    {
+      "image": "https://rukminim2.flixcart.com/image/210/210/xif0q/monitor/h/6/z/-original-imah45n3tte9pv6b.jpeg?q=70",
+      "type": "ViewSonic Monitors",
+      "from": "From 14,999"
+    }
+  ],
+  "Toys": [
+    {
+      "image": "https://rukminim2.flixcart.com/image/210/210/kx50gi80/pen/h/z/k/119766-flair-original-imag9nzubznagufg.jpeg?q=80",
+      "type": "Top Selling Stationery",
+      "from": "From 49"
+    },
+    {
+      "image": "https://rukminim2.flixcart.com/image/210/210/k6fd47k0/nut-dry-fruit/p/z/7/200-100-natural-california-pouch-happilo-original-imafzvw2tcazeur6.jpeg?q=80",
+      "type": "Dry Fruits",
+      "from": "Upto 50% off"
+    },
+    {
+      "image": "https://rukminim2.flixcart.com/image/210/210/jxz0brk0/stuffed-toy/n/t/s/4-feet-pink-very-beautiful-best-quality-for-special-gift-125-13-original-imafgv92puzkdytg.jpeg?q=80",
+      "type": "Soft Toys",
+      "from": "Upto 70% off"
+    },
+    {
+      "image": "https://rukminim2.flixcart.com/image/210/210/kzegk280/action-figure/9/v/t/3-30155-mcfarlane-2-5-original-imagbeyyzehpyk2m.jpeg?q=80",
+      "type": "Best of Action Toys",
+      "from": "Upto 70% off"
+    },
+    {
+      "image": "https://rukminim2.flixcart.com/image/210/210/kdbzqfk0/bar/8/h/q/push-up-bar-0-8-long-ankaro-original-imafu9dmvdk3rzvy.jpeg?q=80",
+      "type": "Gym Accessories",
+      "from": "From 139"
+    },
+    {
+      "image": "https://rukminim2.flixcart.com/image/210/210/jlph9jk0/cycle/h/f/k/skyper-26t-sskp26bk0001-16-hero-original-imaf8ru5xysfgtmx.jpeg?q=80",
+      "type": "Bikes",
+      "from": "From 10,999"
+    },
+    {
+      "image": "https://rukminim2.flixcart.com/image/210/210/kzzw5u80/coffee/s/b/x/-original-imagbwf3wvhzfh5z.jpeg?q=80",
+      "type": "Coffee",
+      "from": "From 199"
+    },
+    {
+      "image": "https://rukminim2.flixcart.com/image/210/210/k0plpjk0/remote-control-toy/9/g/k/4-function-remote-control-high-speed-big-racing-car-toy-funkey-original-imafkg33umd8dy93.jpeg?q=80",
+      "type": "Remote Control Toys",
+      "from": "From 1,099"
+    }
+  ],
+  "Earbuds": [
+    {
+      "id": 1,
+      "title": "BoAt Immortal 171",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/m/x/o/-original-imagt5cwzxknqpbu.jpeg?q=70",
+      "price": "₹1,999",
+      "rating": "4.3",
+      "review": "(1,09,292)",
+      "type": "Gaming Headphone"
+    },
+    {
+      "id": 2,
+      "title": "OnePlus Nord Buds 2R",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/y/e/x/-original-imagqktbtkjycwya.jpeg?q=70",
+      "price": "₹1,999",
+      "rating": "4.2",
+      "review": "(2,75,392)",
+      "type": "Earbuds"
+    },
+    {
+      "id": 3,
+      "title": "Realme Buds T110",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/q/m/s/-original-imah3zvdthupfejc.jpeg?q=70",
+      "price": "₹1,499",
+      "rating": "4.3",
+      "review": "(2,75,392)",
+      "type": "Earbuds"
+    },
+    {
+      "id": 4,
+      "title": "Boult Astra",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/v/y/o/-original-imagt3vwuweuwk9v.jpeg?q=70",
+      "price": "₹1,099",
+      "rating": "4.3",
+      "review": "(26,359)",
+      "type": "Gaming Headphone"
+    },
+    {
+      "id": 5,
+      "title": "Boult Z40",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/f/y/f/-original-imahy3uqgtzmdsge.jpeg?q=70",
+      "price": "₹1,099",
+      "rating": "4.3",
+      "review": "(26,359)",
+      "type": "Gaming Headphone"
+    },
+    {
+      "id": 6,
+      "title": "Boult Y1 Pro Zen",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/w/t/q/-original-imagr4t8zuq2wzhe.jpeg?q=70",
+      "price": "₹1,099",
+      "rating": "4.3",
+      "review": "(26,359)",
+      "type": "Gaming Headphone"
+    },
+    {
+      "id": 7,
+      "title": "BoAt Immortal 171",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/m/x/o/-original-imagt5cwzxknqpbu.jpeg?q=70",
+      "price": "₹1,999",
+      "rating": "4.3",
+      "review": "(1,09,292)",
+      "type": "Gaming Headphone"
+    },
+    {
+      "id": 8,
+      "title": "OnePlus Nord Buds 2R",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/y/e/x/-original-imagqktbtkjycwya.jpeg?q=70",
+      "price": "₹1,999",
+      "rating": "4.2",
+      "review": "(2,75,392)",
+      "type": "Earbuds"
+    },
+    {
+        "id": 9,
+      "title": "Realme Buds T110",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/q/m/s/-original-imah3zvdthupfejc.jpeg?q=70",
+      "price": "₹1,499",
+      "rating": "4.3",
+      "review": "(2,75,392)",
+      "type": "Earbuds"
+    },
+    {
+      "id": 10,
+      "title": "Boult Astra",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/v/y/o/-original-imagt3vwuweuwk9v.jpeg?q=70",
+      "price": "₹1,099",
+      "rating": "4.3",
+      "review": "(26,359)",
+      "type": "Gaming Headphone"
+    },
+    {
+      "id": 11,
+      "title": "Boult Z40",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/f/y/f/-original-imahy3uqgtzmdsge.jpeg?q=70",
+      "price": "₹1,099",
+      "rating": "4.3",
+      "review": "(26,359)",
+      "type": "Gaming Headphone"
+    },
+    {
+      "id": 12,
+      "title": "Boult Y1 Pro Zen",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/w/t/q/-original-imagr4t8zuq2wzhe.jpeg?q=70",
+      "price": "₹1,099",
+      "rating": "4.3",
+      "review": "(26,359)",
+      "type": "Gaming Headphone"
+    },
+    {
+      "id": 13,
+      "title": "BoAt Immortal 171",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/m/x/o/-original-imagt5cwzxknqpbu.jpeg?q=70",
+      "price": "₹1,999",
+      "rating": "4.3",
+      "review": "(1,09,292)",
+      "type": "Gaming Headphone"
+    },
+    {
+      "id": 14,
+      "title": "OnePlus Nord Buds 2R",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/y/e/x/-original-imagqktbtkjycwya.jpeg?q=70",
+      "price": "₹1,999",
+      "rating": "4.2",
+      "review": "(2,75,392)",
+      "type": "Earbuds"
+    },
+    {
+              "id": 15,
+      "title": "Realme Buds T110",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/q/m/s/-original-imah3zvdthupfejc.jpeg?q=70",
+      "price": "₹1,499",
+      "rating": "4.3",
+      "review": "(2,75,392)",
+      "type": "Earbuds"
+    },
+    {
+      "id": 16,
+      "title": "Boult Astra",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/v/y/o/-original-imagt3vwuweuwk9v.jpeg?q=70",
+      "price": "₹1,099",
+      "rating": "4.3",
+      "review": "(26,359)",
+      "type": "Gaming Headphone"
+    },
+    {
+      "id": 17,
+      "title": "Boult Z40",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/f/y/f/-original-imahy3uqgtzmdsge.jpeg?q=70",
+      "price": "₹1,099",
+      "rating": "4.3",
+      "review": "(26,359)",
+      "type": "Gaming Headphone"
+    },
+    {
+      "id": 18,
+      "title": "Boult Y1 Pro Zen",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/w/t/q/-original-imagr4t8zuq2wzhe.jpeg?q=70",
+      "price": "₹1,099",
+      "rating": "4.3",
+      "review": "(26,359)",
+      "type": "Gaming Headphone"
+    },
+    {
+      "id": 19,
+      "title": "BoAt Immortal 171",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/m/x/o/-original-imagt5cwzxknqpbu.jpeg?q=70",
+      "price": "₹1,999",
+      "rating": "4.3",
+      "review": "(1,09,292)",
+      "type": "Gaming Headphone"
+    },
+    {
+      "id": 20,
+      "title": "OnePlus Nord Buds 2R",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/y/e/x/-original-imagqktbtkjycwya.jpeg?q=70",
+      "price": "₹1,999",
+      "rating": "4.2",
+      "review": "(2,75,392)",
+      "type": "Earbuds"
+    },
+    {
+      "id": 21,
+      "title": "Realme Buds T110",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/q/m/s/-original-imah3zvdthupfejc.jpeg?q=70",
+      "price": "₹1,499",
+      "rating": "4.3",
+      "review": "(2,75,392)",
+      "type": "Earbuds"
+    },
+    {
+      "id": 22,
+      "title": "Boult Astra",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/v/y/o/-original-imagt3vwuweuwk9v.jpeg?q=70",
+      "price": "₹1,099",
+      "rating": "4.3",
+      "review": "(26,359)",
+      "type": "Gaming Headphone"
+    },
+    {
+      "id": 23,
+      "title": "Boult Z40",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/f/y/f/-original-imahy3uqgtzmdsge.jpeg?q=70",
+      "price": "₹1,099",
+      "rating": "4.3",
+      "review": "(26,359)",
+      "type": "Gaming Headphone"
+    },
+    {
+      "id": 24,
+      "title": "Boult Y1 Pro Zen",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/w/t/q/-original-imagr4t8zuq2wzhe.jpeg?q=70",
+      "price": "₹1,099",
+      "rating": "4.3",
+      "review": "(26,359)",
+      "type": "Gaming Headphone"
+    }
+  ],
+  "home": [
+    {
+      "image": "https://rukminim2.flixcart.com/image/240/240/xif0q/blanket/5/v/a/mink-super-soft-and-extra-warm-single-bed-blanket-for-heavy-original-imah2sqygmecy9gs.jpeg?q=80",
+      "type": "Blankets",
+      "from": "Min 50% off"
+    },
+    {
+      "image": "https://rukminim2.flixcart.com/image/240/240/l2dmky80/rack-shelf/v/y/9/bathroom-2-pack-soap-saver-dish-with-drain-leaf-shape-soap-original-imagdqd9sz66zska.jpeg?q=80",
+      "type": "Bathroom Accessories",
+      "from": "Min 50% off"
+    },
+    {
+      "image": "https://rukminim2.flixcart.com/image/240/240/xif0q/chopper/r/l/p/3-stainless-steel-blade-powerful-mini-handy-quick-450-ml-chopper-original-imagzufvcjsugfs8.jpeg?q=80",
+      "type": "Chopper",
+      "from": "Min 50% off"
+    },
+    {
+      "image": "https://rukminim2.flixcart.com/image/240/240/xif0q/incense-stick/e/i/e/5-fragrances-600-gram-rose-sandal-loban-mogra-pineapple-600-set-original-imah2ggptxzabqsh.jpeg?q=80",
+      "type": "Incense Sticks",
+      "from": "Min 50% off"
+    }
+  ],
+  "sports": [
+    {
+      "image": "https://rukminim2.flixcart.com/image/240/240/xif0q/dumbbell/a/u/v/2-5kg-x-4-premium-quality-10-aman-fit-original-imahf75527svkq5m.jpeg?q=80",
+      "type": "Dumbbell",
+      "from": "Min 50% off"
+    },
+    {
+      "image": "https://rukminim2.flixcart.com/image/240/240/xif0q/cycle/j/e/4/14t-rocky-skyblue-14-13-xaipro-rides-60-single-speed-original-imahymzmzg3mhptg.jpeg?q=80",
+      "type": "Cycle",
+      "from": "Min 50% off"
+    },
+    {
+      "image": "https://rukminim2.flixcart.com/image/240/240/xif0q/treadmill/l/w/o/tdm-96-4hp-peak-motorized-foldable-running-machine-for-home-original-imah4z8uxujgygug.jpeg?q=80",
+      "type": "Treadmill",
+      "from": "Min 50% off"
+    },
+    {
+      "image": "https://rukminim2.flixcart.com/image/240/240/xif0q/electric-cycle/k/b/g/tungsten-voltcruze-orange-17-cradiac-single-speed-original-imah3a8kwjpdp4sq.jpeg?q=80",
+      "type": "Electric Cycle",
+      "from": "Min 50% off"
+    }
+  ],
+  "Gadgets": [
+    {
+      "image": "https://rukminim2.flixcart.com/image/240/240/xif0q/headphone/z/c/x/nb111-wireless-bluetooth-headphone-magnetic-neckband-250h-original-imagwcm53gkzmtct.jpeg?q=80",
+      "type": "Headphone",
+      "from": "Min 50% off"
+    },
+    {
+      "image": "https://rukminim2.flixcart.com/image/240/240/xif0q/smartwatch/1/s/c/49-gs-t800-orange-2-android-ios-gamesir-yes-original-imah2hctetmzgg5z.jpeg?q=80",
+      "type": "Smartwatch",
+      "from": "Min 50% off"
+    },
+    {
+      "image": "https://rukminim2.flixcart.com/image/240/240/xif0q/headphone/o/i/6/fire-500v2-neckband-hi-bass-wireless-bluetooth-headphone-original-imagms6vdyq7hfty.jpeg?q=80",
+      "type": "Monitor",
+      "from": "Min 50% off"
+    },
+    {
+      "image": "https://rukminim2.flixcart.com/image/240/240/xif0q/smart-lighting/c/c/d/3-powerful-led-flashlight-led-pilot-device-original-imags259amyfw2kg.jpeg?q=80",
+      "type": "Light",
+      "from": "Min 50% off"
+    }
+  ],
+  "Fashion": [
+    {
+      "image": "https://rukminim2.flixcart.com/image/240/240/xif0q/patiala/y/q/y/5-6-years-kids-pati-4-pcs-8-afra-original-imagjxsxp88rac9e.jpeg?q=80",
+      "type": "Salwar Kameez",
+      "from": "Min 50% off"
+    },
+    {
+      "image": "https://rukminim2.flixcart.com/image/240/240/xif0q/kurta/t/z/r/m-02-fb-pw-v-and-v-shop-original-imah33ydqaqghyk3.jpeg?q=80",
+      "type": "Kurti",
+      "from": "Min 50% off"
+    },
+    {
+      "image": "https://rukminim2.flixcart.com/image/240/240/xif0q/fabric/a/y/g/no-2-25-m-unstitched-na-blue-frok-jrk-enterprise-original-imagpy96kzc3mqdk.jpeg?q=80",
+      "type": "Unstitched",
+      "from": "Min 50% off"
+    },
+    {
+      "image": "https://rukminim2.flixcart.com/image/240/240/xif0q/shoe/0/c/3/6-rng-854-grey-40-bruton-grey-original-imah3xh6a6ecvmng.jpeg?q=80",
+      "type": "Shoes",
+      "from": "Min 50% off"
+    }
+  ],
+  "Beauty": [
+    {
+      "image": "https://rukminim2.flixcart.com/image/240/240/xif0q/nut-dry-fruit/f/9/n/1-mix-dry-fruit-panchmeva-1kg-jar-1-mason-jar-plum-natural-original-imah3qzbkagwhdjd.jpeg?q=80",
+      "type": "Dry Fruits",
+      "from": "Min 50% off"
+    },
+    {
+      "image": "https://rukminim2.flixcart.com/image/240/240/xif0q/body-skin-treatment/i/b/x/100-anti-cellulite-skin-toning-stretch-mark-removal-oil-elibliss-original-imah4n5jygp6zcyn.jpeg?q=80",
+      "type": "Body Skin Treatment",
+      "from": "Min 50% off"
+    },
+    {
+      "image": "https://rukminim2.flixcart.com/image/240/240/xif0q/face-pack/n/s/j/50-gold-peel-of-mask-removes-blackheads-brightening-whitening-original-imahfacfffvcgqte.jpeg?q=80",
+      "type": "Face Pack",
+      "from": "Min 50% off"
+    },
+    {
+      "image": "https://rukminim2.flixcart.com/image/240/240/xif0q/fmcg-combo/u/o/g/chocolate-gifts-combo-i-love-you-i-m-sorry-gift-box-gift-pack-12-original-imah3dxd4zqyhepu.jpeg?q=80",
+      "type": "Chocolate Combo",
+      "from": "Min 50% off"
+    }
+
+  ]
+}
